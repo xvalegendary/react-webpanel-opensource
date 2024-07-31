@@ -7,12 +7,11 @@
 ```bash
   cd React-WebPanel-main
 ```
-3. Install the necessary dependencies
+ 
 ```bash
   npm install
 ```
 
-4. Start the development server
 ```bash
   npm start
 ```
@@ -38,8 +37,6 @@ dark, light theme and others.
 
 
 ## Authors
-
-- 
 
 - [@xvalegendary](https://github.com/xvalegendary)
 
