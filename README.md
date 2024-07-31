@@ -19,10 +19,10 @@
 
 ## Built With
 
-- React -
-- Tailwind - 
-- HTML - 
-- CSS -
+- React 
+- Tailwind 
+- HTML 
+- CSS 
 
 ## Features
 
